@@ -4,6 +4,9 @@ FactoryBot.define do
   factory :child do
     first_name "Alex"
     last_name "Heimann"
+    active true 
+    created_at false 
+    updated_at false
   end
 
   # factory blueprint for tasks
