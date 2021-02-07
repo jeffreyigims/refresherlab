@@ -34,6 +34,33 @@
   },
   "Unit Tests": {
     "coverage": {
+      "/Users/jeffreyigims/Documents/Spring_2021/67-373/lab5-choretracker-starter/app/models/chore.rb": [
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        3,
+        2,
+        4,
+        2,
+        2,
+        2,
+        null,
+        1,
+        2,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/jeffreyigims/Documents/Spring_2021/67-373/lab5-choretracker-starter/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
       "/Users/jeffreyigims/Documents/Spring_2021/67-373/lab5-choretracker-starter/app/models/child.rb": [
         1,
         1,
@@ -49,34 +76,7 @@
         null,
         null,
         1,
-        0,
-        null,
-        null,
-        null
-      ],
-      "/Users/jeffreyigims/Documents/Spring_2021/67-373/lab5-choretracker-starter/app/models/application_record.rb": [
-        1,
-        1,
-        null
-      ],
-      "/Users/jeffreyigims/Documents/Spring_2021/67-373/lab5-choretracker-starter/app/models/chore.rb": [
-        1,
-        1,
-        1,
-        null,
-        1,
-        null,
-        3,
-        2,
-        2,
-        2,
-        2,
-        2,
-        null,
-        1,
-        2,
-        1,
-        1,
+        5,
         null,
         null,
         null
@@ -346,6 +346,6 @@
         0
       ]
     },
-    "timestamp": 1612735534
+    "timestamp": 1612735715
   }
 }
